@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 SpaceCoder Academy
+# 🚀 qa orders Academy
 
 **منصة تعليمية متكاملة لدورات ضمان الجودة (QA Courses)**
 
