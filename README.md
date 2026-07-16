@@ -288,5 +288,5 @@ vercel
 ---
 
 <div align="center">
-صُنع بـ ❤️ بواسطة <strong>SpaceCoder Academy</strong>
+صُنع بـ ❤️ بواسطة <qa orders team>
 </div>
