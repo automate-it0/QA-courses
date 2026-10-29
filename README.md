@@ -1,8 +1,8 @@
 <div align="center">
 
-# 🚀 qa orders Academy
+# 🎓 QA Courses Academy
 
-**منصة تعليمية متكاملة لدورات ضمان الجودة (QA Courses)**
+**منصة تعليمية متكاملة لدورات ضمان الجودة (QA Courses Academy)**
 
 منصة ويب تفاعلية مبنية بـ Next.js 14 لتقديم دورات اختبار البرمجيات وضمان الجودة، مع لوحات تحكم مخصصة للمسؤولين والطلاب وأولياء الأمور.
 
@@ -10,7 +10,7 @@
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.7-blue?logo=typescript)](https://www.typescriptlang.org/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.4-38bdf8?logo=tailwindcss)](https://tailwindcss.com/)
 [![Supabase](https://img.shields.io/badge/Supabase-Backend-3ecf8e?logo=supabase)](https://supabase.com/)
-[![License](https://img.shields.io/badge/License-Private-red)]()
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](./LICENSE)
 
 </div>
 
@@ -18,7 +18,7 @@
 
 ## 📋 نظرة عامة
 
-SpaceCoder Academy هي منصة تعليمية شاملة مصممة لتقديم دورات متخصصة في اختبار البرمجيات وضمان الجودة (QA). توفر المنصة تجربة مستخدم غنية بتصميم فضائي عصري مع ثلاث لوحات تحكم مخصصة حسب نوع المستخدم، مما يضمن تجربة مخصصة وفعالة لكل فئة.
+QA Courses Academy هي منصة تعليمية شاملة مصممة لتقديم دورات متخصصة في اختبار البرمجيات وضمان الجودة (QA). توفر المنصة تجربة مستخدم غنية بتصميم فضائي عصري مع ثلاث لوحات تحكم مخصصة حسب نوع المستخدم، مما يضمن تجربة مخصصة وفعالة لكل فئة.
 
 ### ✨ المميزات الرئيسية
 
@@ -111,7 +111,6 @@ QA-courses/
 │   └── 📂 styles/                      # الأنماط العامة (globals.css...)
 │
 ├── 📂 docs/                            # الوثائق والمستندات
-│   ├── agent-rules.md                  # قواعد وكيل البرمجة AI
 │   └── build-log.txt                   # سجل البناء الأخير
 │
 ├── .env.example                        # قالب متغيرات البيئة
@@ -283,10 +282,10 @@ vercel
 
 ## 📄 الترخيص
 
-هذا المشروع خاص (Private) — جميع الحقوق محفوظة.
+هذا المشروع مرخّص بموجب [رخصة MIT](./LICENSE) — انظر ملف `LICENSE` للتفاصيل.
 
 ---
 
 <div align="center">
-صُنع بـ ❤️ بواسطة <qa orders team>
+صُنع بـ ❤️ بواسطة <a href="https://github.com/automate-it0">Ziad Kishk</a>
 </div>
